@@ -57,7 +57,7 @@
 							<Item Name="ReSharper Interface Identifier" Foreground="0x00FF6464" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Late Bound Identifier" Foreground="0x00FF6464" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper LiveTemplates Current HotSpot mirror" Foreground="0x00A7A7A7" Background="0x02000000" BoldFont="No"/>
-							<Item Name="ReSharper Matched Brace" Foreground="0x00655E56" Background="0x00FFFF00" BoldFont="No"/>
+							<Item Name="ReSharper Matched Brace" Foreground="0x00655E56" Background="0x006C6C00" BoldFont="No"/>
 							<Item Name="ReSharper Namespace Identifier" Foreground="0x00FF6464" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Navigation Highlight" Foreground="0x00A26706" Background="0x00FACE87" BoldFont="No"/>
 							<Item Name="ReSharper Read Usage" Foreground="0x00AB6D07" Background="0x00FACE87" BoldFont="No"/>
