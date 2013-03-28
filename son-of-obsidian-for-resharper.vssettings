@@ -28,6 +28,7 @@
 							<Item Name="CSS Selector" Foreground="0x00B18C67" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CSS String Value" Foreground="0x000076EC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="CurrentLineFormat" Foreground="0x02000000" Background="0x003A3830" BoldFont="No"/>
+							<Item Name="CurrentLineActiveFormat" Foreground="0x02000000" Background="0x003A3830" BoldFont="No"/>
 							<Item Name="CurrentLineInactiveFormat" Foreground="0x02000000" Background="0x003A3830" BoldFont="No"/>
 							<Item Name="Excluded Code" Foreground="0x00616161" Background="0x02000000" BoldFont="No"/>
 							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x00808080" BoldFont="No"/>
